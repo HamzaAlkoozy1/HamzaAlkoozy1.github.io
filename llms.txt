@@ -1,0 +1,22 @@
+# Hamza Alkoozy
+
+> I am a backend-focused full stack developer with 6+ years of experience in PHP, Laravel, MongoDB, SQL and React. Today I build and maintain backend services for a high-volume, multi-brand platform for wallets, payments, rewards and marketing automation.
+
+## Profile
+
+- [Full profile in Markdown](https://hamzaalkoozy1.github.io/profile.md): experience, key projects, skills, AI engineering
+- [Portfolio page](https://hamzaalkoozy1.github.io/): the same content as a web page
+
+## Contact
+
+- Email: hamza.alkoozy@outlook.com
+- LinkedIn: https://www.linkedin.com/in/hamza-alkoozy-05603b126
+
+## Posts
+
+- [The save that said "done" and wrote nothing](https://hamzaalkoozy1.github.io/posts/the-save-that-said-done-and-wrote-nothing.md): 💸 After an upgrade, a money field stopped saving and threw no error and wrote no log line. The cause was one innocent == that thought 283.28 and 284 were the same number 👇
+- [One tiny loop. 64 CPU cores at 100%.](https://hamzaalkoozy1.github.io/posts/one-loop-64-cores.md): 🔥 One tiny loop kept all 64 CPU cores of a production server at 100%. The fix took a few lines: 21 seconds → 0.01. Then I went hunting for its cousins 👇
+
+## License
+
+- © 2026 Hamza Alkoozy. All rights reserved: https://hamzaalkoozy1.github.io/LICENSE.txt
